@@ -1,1 +1,0 @@
-# vendor_lge_f400
